@@ -1,7 +1,7 @@
 ---
 title: "Hoban lab ggplot2 walk-through"
 author: "Ash Hamilton"
-output: html_document
+output: pdf_document
 ---
 To reproduce the code throughout this tutorial you only need to load the `ggplot2` package
 
@@ -345,7 +345,7 @@ ggplot(mpg, aes(x = hwy, fill = class)) +
   geom_histogram(position = "dodge")
 
 
-ggplot(mpg, aes(x = hwy), fill = class) +
+ggplot(mpg, aes(x = hwy, fill = class)) +
   geom_histogram(position = "fill")
 
 ```
