@@ -9,11 +9,11 @@ My walk through was adapted from [this tutorial](https://uc-r.github.io/ggplot_i
 
 To walk through my Frankenstein tutorial effectively, you should download one of the following:
 
-* [the rmd document](./walkthrough_document/code_walkthrough.rmd) (best if you already know mark down and/or don't want to type a single thing)
+* [the rmd document](https://github.com/HobanLab/ggplot2_intro_and_walkthrough/tree/main/walkthrough_document/code_walkthrough.rmd) (best if you already know mark down and/or don't want to type a single thing)
 
-* [the pdf document](./walkthrough_document/code_walkthrough.pdf) (best if you want to create your own R script with your own notes)
+* [the pdf document](https://github.com/HobanLab/ggplot2_intro_and_walkthrough/tree/main/walkthrough_document/code_walkthrough.pdf) (best if you want to create your own R script with your own notes)
 
-* [the html document](./walkthrough_document/code_walkthrough.html) (best if you don't want to deal with the pesky page breaks of a pdf)
+* [the html document](https://github.com/HobanLab/ggplot2_intro_and_walkthrough/tree/main/walkthrough_document/walkthrough_document/code_walkthrough.html) (best if you don't want to deal with the pesky page breaks of a pdf)
 
 <br> 
 

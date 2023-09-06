@@ -1,7 +1,7 @@
 ---
 title: "Hoban lab ggplot2 walk-through"
 author: "Ash Hamilton"
-output: pdf_document
+output: html_document
 ---
 To reproduce the code throughout this tutorial you only need to load the `ggplot2` package
 
@@ -264,7 +264,7 @@ ggplot(data = midwest, aes(x = percbelowpoverty, y = perchsd)) +
 Here is a helpful image that I constantly refer to when trying to customize my colors:
 
 ```{r, echo=F, fig.align='center', fig.height=7, fig.width=5}
-knitr::include_graphics("./R_colorbynames.png")
+knitr::include_graphics("../R_colorbynames.png")
 ```
 
 <br> 
